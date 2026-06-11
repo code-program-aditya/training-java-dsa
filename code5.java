@@ -15,7 +15,7 @@ public class code5 {
                 int o = sc.nextInt();
                 System.out.println("n can be fitted in: * dataType" + c );
             }
-            catch(exception()){
+            catch(Exception e){
 
             }
         }
