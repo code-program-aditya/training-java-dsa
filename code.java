@@ -11,6 +11,5 @@ public class code {
         else {
             System.out.println("not Special Leap Year");
         }
-        
     }
 }
