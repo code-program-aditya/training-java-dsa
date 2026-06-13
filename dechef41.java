@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class codechef41 {
+public class  dechef41 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
